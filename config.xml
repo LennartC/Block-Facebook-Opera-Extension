@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets">
+	<name>Facebook blocker</name>
+	<description>Block connections to facebook from third-party sites. Prevents Facebook from tracking your browsing behaviour.</description>
+  	<author href="https://github.com/LennartC/" email="coopmans@lacerta.be">Lennart Coopmans</author>
+  	<icon src="icon_64.png"/>
+	<feature name="opera:urlfilter"/>
+</widget>

@@ -1,0 +1,18 @@
+Block Facebook Opera Extension
+======
+Opera extension to block connections to facebook from third-party sites.
+Prevents Facebook from tracking your browsing behaviour.
+
+* Blocks facebook scripts from executing when not coming from a non-facebook domain.
+* Add facebook plugins url to url blocker. (Requires Opera 11.10)
+
+CREDITS
+=======
+Icon is a combination of:
+http://commons.wikimedia.org/wiki/File:Facebook_icon.svg
+http://commons.wikimedia.org/wiki/File:Ambox_octogon_stop.svg
+
+LICENSE
+=======
+Block Facebook Opera Extension is licensed under the Apache Licence,
+Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html).
